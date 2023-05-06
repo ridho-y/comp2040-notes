@@ -10,9 +10,9 @@ layout: home
 
 [Filters](https://ridho-y.github.io/comp2041-notes/filters.html)
 
-[Shell Notes](https://ridho-y.github.io/comp2041-notes/shell.html)
-
 [Regex Notes](https://ridho-y.github.io/comp2041-notes/regex.html)
+
+[Shell Notes](https://ridho-y.github.io/comp2041-notes/shell.html)
 
 [Python Notes](https://ridho-y.github.io/comp2041-notes/python.html)
 
